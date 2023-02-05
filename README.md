@@ -1,4 +1,4 @@
-# This a SOny ps website clone
+# This a Sony ps website clone
 
 ## It is purely in html, css and js
 
